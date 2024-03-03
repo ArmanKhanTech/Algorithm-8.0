@@ -1,0 +1,34 @@
+.marquee {
+    width: 100vw;
+    overflow: hidden;
+    position: relative;
+    height: 50px; 
+}
+
+.marquee-mobile {
+    width: 200vw;
+    overflow: hidden;
+    position: relative;
+    height: 50px; 
+}
+
+.marquee p {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    line-height: 50px;
+    text-align: center;
+
+}
+
+.marquee-mobile p {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    line-height: 50px;
+    text-align: center;
+
+   
+}
