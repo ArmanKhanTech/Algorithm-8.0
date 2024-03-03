@@ -36,8 +36,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contribution</a></li>
   </ol>
 </details>
 
@@ -50,8 +48,7 @@
 
 ### Built With
 
-* [![Flutter][Flutter]][Flutter-url]
-* [![Dart][Dart]][Dart-url]
+* [![React][React]][React-url]
 * [![Firebase][Firebase]][Firebase-url]
 
 
@@ -81,60 +78,38 @@ Follow the below instructions to get started.
 1. Clone the repository
 
 ```js
-git clone https://github.com/adil2705/Algorithm-8.0.git
+git clone https://github.com/ArmanKhanTech/Algorithm-8.0.git
 ```
 
-2. Install the dependencies
+2. Change the directory
+
+```js
+cd Web-Frontend
+```
+
+3. Install the dependencies
 
 ```js
 npm install
 ```
 
-3. Run the server
+4. Run the server
 
 ```js
 npm run dev
 ```
 
 
-## Contribution
+## Usage
 
-1. Initialize the repository
+1. Team Registration
+2. Announcements
+3. Edit Registration
+4. Dashboard
+5. Marketing
 
-```js
-git init
-```
 
-2. Stage the changes
-
-```js
-git add .
-```
-
-3. Commit the changes
-
-```js
-git commit -m "your message"
-```
-
-4. Add the remote repository
-
-```js
-git remote add origin https://github.com/adil2705/Algorithm-8.0.git
-```
-
-5. Change the branch
-
-```js
-git checkout experiment
-```
-
-6. Push the changes
-
-```js
-git push origin experiment
-```
-
-7. Create a pull request
-
-8. Wait for the pull request to be reviewed and merged with the production branch
+[React]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white
+[React-url]: https://reactjs.org/
+[Firebase]: https://img.shields.io/badge/Firebase-6495ED?style=for-the-badge&logo=Firebase&logoColor=white
+[Firebase-url]: https://firebase.google.com/
