@@ -32,7 +32,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Setup</a></li>
+        <li><a href="#setup">Setup</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -77,35 +77,35 @@ Follow the below instructions to get started.
 
 1. Clone the repository
 
-```js
-git clone https://github.com/ArmanKhanTech/Algorithm-8.0.git
-```
+    ```js
+    git clone https://github.com/ArmanKhanTech/Algorithm-8.0.git
+    ```
 
 2. Change the directory
 
-```js
-cd Web-Frontend
-```
+    ```js
+    cd Web-Frontend
+    ```
 
 3. Install the dependencies
 
-```js
-npm install
-```
+    ```js
+    npm install
+    ```
 
 4. Run the server
 
-```js
-npm run dev
-```
+    ```js
+    npm run dev
+    ```
 
 
 ## Usage
 
 1. Team Registration
-2. Announcements
-3. Edit Registration
-4. Dashboard
+2. Edit Registration
+3. Announcements
+4. Member's Dashboard
 5. Marketing
 
 
