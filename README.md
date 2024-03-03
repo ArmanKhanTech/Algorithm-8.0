@@ -45,4 +45,4 @@ Project Link - [https://github.com/ArmanKhanTech/Algorithm-8.0](https://github.c
 [license-shield]: https://img.shields.io/github/license/ArmanKhanTech/Algorithm-8.0.svg?style=for-the-badge
 [license-url]: https://github.com/ArmanKhanTech/Algorithm-8.0/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/arman-khan-7b5b3b1b3/
+[linkedin-url]: https://www.linkedin.com/in/arman-khan-25b624205/
