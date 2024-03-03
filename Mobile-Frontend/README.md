@@ -84,15 +84,21 @@ Follow the below instructions to get started.
    git clone https://github.com/ArmanKhanTech/Algorithm-8.0.git
    ```
 
-2. Add the required dependencies
+2. Change the directory
+
+   ```sh
+   cd Mobile-Frontend
+   ```
+
+3. Add the required dependencies
    
    ```sh
    flutter pub get
    ```
 
-3. Initialize the `firebase_options.dart` file in `/lib` folder
+4. Initialize the `firebase_options.dart` file in `/lib` folder
 
-4. Run the app
+5. Run the app
 
    ```sh
    flutter run
