@@ -1,24 +1,14 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<br />
 <div align="center">
   <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/">
-    <img src="https://github.com/ArmanKhanTech/Algorithm-8-0/assets/92728787/9d1de853-56f1-4a15-8fc6-a8733dd304aa" alt="Logo" width="100" height="120">
+    <img src="https://github.com/ArmanKhanTech/Algorithm-8.0/assets/92728787/73a7798c-6df0-475d-8384-a1486dfbcb25" alt="Logo" width="100" height="120">
   </a>
 
-  <h3 align="center">Algorithm 8.0</h3>
+  <h3 align="center">Algorithm 8.0 Mobile</h3>
 
   <p align="center">
     This is mobile client for upcoming Algorithm 8.0.
     <br />
-    <a href="https://github.com/ArmanKhanTech/Algorithm-8.0"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/tree/master/Mobile-Frontend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Report a Bug</a>
@@ -57,8 +47,8 @@
 
 ## About The Project
 
-<p>This is Mobile Client for upcoming hackathon Algorithm 8.0</p>
-<p>Web Client can be found <a href="https://github.com/adil2705/Algorithm-8-0">here</a></p>
+<p>This is Mobile Client for national level hackathon <b>Algorithm 8.0</b> conducted in our college.</p>
+
 
 ### Built With
 
@@ -91,7 +81,8 @@ Follow the below instructions to get started.
 
 ### Installation
 
-1. Clone this repository 
+1. Clone this repository
+   
    ```sh
    git clone https://github.com/ArmanKhanTech/Algorithm-8.0.git
    ```
@@ -134,48 +125,9 @@ Follow the below instructions to get started.
 - [x] Judge Evaluation
 - [x] View Results
 
-See the [open issues](https://github.com/ArmanKhanTech/Algorithm-8.0/issues) for a full list of proposed features (and known issues)
 
 
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-
-Don't forget to give the project a star! 
-
-Thanks again!
-
-
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
-
-## Contact
-
-Arman Khan - ak2341776@gmail.com
-
-Project Link - [https://github.com/ArmanKhanTech/Algorithm-8.0](https://github.com/ArmanKhanTech/Algorithm-8.0)
-
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/ArmanKhanTech/Algorithm.svg?style=for-the-badge
-[contributors-url]: https://github.com/ArmanKhanTech/Algorithm/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ArmanKhanTech/Algorithm.svg?style=for-the-badge
-[forks-url]: https://github.com/ArmanKhanTech/Algorithm/network/members
-[stars-shield]: https://img.shields.io/github/stars/ArmanKhanTech/Algorithm.svg?style=for-the-badge
-[stars-url]: https://github.com/ArmanKhanTech/Algorithm/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ArmanKhanTech/Algorithm.svg?style=for-the-badge
-[issues-url]: https://github.com/ArmanKhanTech/Algorithm/issues
-[license-shield]: https://img.shields.io/github/license/ArmanKhanTech/Algorithm.svg?style=for-the-badge
-[license-url]: https://github.com/ArmanKhanTech/Algorithm/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/arman-khan-25b624205/
 [Flutter]: https://img.shields.io/badge/Flutter-0096FF.svg?style=for-the-badge&logo=Flutter&logoColor=white
 [Flutter-url]: https://flutter.dev/
 [Dart]: https://img.shields.io/badge/dart-FF0000.svg?style=for-the-badge&logo=dart&logoColor=white
