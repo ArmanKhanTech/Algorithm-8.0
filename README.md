@@ -34,23 +34,14 @@ Project Link - [https://github.com/ArmanKhanTech/Algorithm-8.0](https://github.c
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/ArmanKhanTech/Algorithm.svg?style=for-the-badge
-[contributors-url]: https://github.com/ArmanKhanTech/Algorithm/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ArmanKhanTech/Algorithm.svg?style=for-the-badge
-[forks-url]: https://github.com/ArmanKhanTech/Algorithm/network/members
-[stars-shield]: https://img.shields.io/github/stars/ArmanKhanTech/Algorithm.svg?style=for-the-badge
-[stars-url]: https://github.com/ArmanKhanTech/Algorithm/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ArmanKhanTech/Algorithm.svg?style=for-the-badge
-[issues-url]: https://github.com/ArmanKhanTech/Algorithm/issues
-[license-shield]: https://img.shields.io/github/license/ArmanKhanTech/Algorithm.svg?style=for-the-badge
-[license-url]: https://github.com/ArmanKhanTech/Algorithm/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ArmanKhanTech/Algorithm-8.0.svg?style=for-the-badge
+[contributors-url]: https://github.com/ArmanKhanTech/Algorithm-8.0/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ArmanKhanTech/Algorithm-8.0.svg?style=for-the-badge
+[forks-url]: https://github.com/ArmanKhanTech/Algorithm-8.0/network/members
+[stars-shield]: https://img.shields.io/github/stars/ArmanKhanTech/Algorithm-8.0.svg?style=for-the-badge
+[stars-url]: https://github.com/ArmanKhanTech/Algorithm-8.0/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ArmanKhanTech/Algorithm-8.0.svg?style=for-the-badge
+[issues-url]: https://github.com/ArmanKhanTech/Algorithm-8.0/issues
+[license-shield]: https://img.shields.io/github/license/ArmanKhanTech/Algorithm-8.0.svg?style=for-the-badge
+[license-url]: https://github.com/ArmanKhanTech/Algorithm-8.0/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/arman-khan-25b624205/
-[Flutter]: https://img.shields.io/badge/Flutter-0096FF.svg?style=for-the-badge&logo=Flutter&logoColor=white
-[Flutter-url]: https://flutter.dev/
-[Dart]: https://img.shields.io/badge/dart-FF0000.svg?style=for-the-badge&logo=dart&logoColor=white
-[Dart-url]: https://dart.dev/
-[Android]: https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white
-[Android-url]: https://developer.android.com/
-[Firebase]: https://img.shields.io/badge/Firebase-6495ED?style=for-the-badge&logo=Firebase&logoColor=white
-[Firebase-url]: https://firebase.google.com/
