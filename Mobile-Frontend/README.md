@@ -6,7 +6,7 @@
   <h3 align="center">Algorithm 8.0 Mobile</h3>
 
   <p align="center">
-    This is mobile client for upcoming Algorithm 8.0.
+    This is mobile client for Algorithm 8.0.
     <br />
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/tree/master/Mobile-Frontend"><strong>Explore the docs »</strong></a>
     <br />
@@ -90,7 +90,7 @@ Follow the below instructions to get started.
    flutter pub get
    ```
 
-3. Initialize the firebase_options.dart file in /lib folder
+3. Initialize the `firebase_options.dart` file in `/lib` folder
 
 4. Run the app
 
