@@ -16,7 +16,7 @@
   <h3 align="center">Algorithm 8.0</h3>
 
   <p align="center">
-    This is complete system for Algorithm 8.0.
+    This is the complete system developed for Algorithm 8.0.
     <br />
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/tree/master/Mobile-Frontend"><strong>Explore the docs »</strong></a>
     <br />
@@ -33,7 +33,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-hackathon">About the Hackathon</a>
+      <a href="#about-the-event">About the Event</a>
     </li>
     <li><a href="#usage">Contributing</a></li>
     <li><a href="#roadmap">License</a></li>
@@ -43,7 +43,7 @@
 
 
 
-## About The Project
+## About The Event
 
 Algorithm 8.0 is an unique and innovative event that encourages 
 innovation and collaboration in the tech community. It provides a 
