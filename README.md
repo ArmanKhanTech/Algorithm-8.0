@@ -35,7 +35,6 @@
     <li>
       <a href="#about-the-event">About the Event</a>
     </li>
-    <li><a href="#usage">Contributing</a></li>
     <li><a href="#roadmap">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -52,18 +51,6 @@ and create meaningful solutions to real-world problems related to social
 awareness. Whether you are a seasoned developer or a newcomer to the field, 
 Algorithm 8.0 offers a unique opportunity to be a part of something truly impactful 
 and make a difference in the world.
-
-
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-
-Don't forget to give the project a star! 
-
-Thanks again!
 
 
 
