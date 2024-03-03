@@ -37,9 +37,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -85,6 +82,20 @@ Follow the below instructions to get started.
    
    ```sh
    git clone https://github.com/ArmanKhanTech/Algorithm-8.0.git
+   ```
+
+2. Add the required dependencies
+   
+   ```sh
+   flutter pub get
+   ```
+
+3. Initialize the firebase_options.dart file in /lib folder
+
+4. Run the app
+
+   ```sh
+   flutter run
    ```
 
 
