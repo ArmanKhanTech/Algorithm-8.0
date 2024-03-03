@@ -7,6 +7,54 @@
 
 
 
+
+<div align="center">
+  <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/">
+    <img src="https://github.com/ArmanKhanTech/Algorithm-8.0/assets/92728787/73a7798c-6df0-475d-8384-a1486dfbcb25" alt="Logo" width="100" height="120">
+  </a>
+
+  <h3 align="center">Algorithm 8.0</h3>
+
+  <p align="center">
+    This is complete system for Algorithm 8.0.
+    <br />
+    <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/tree/master/Mobile-Frontend"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Report a Bug</a>
+    ·
+    <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Request new Feature</a>
+  </p>
+</div>
+
+
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-hackathon">About the Hackathon</a>
+    </li>
+    <li><a href="#usage">Contributing</a></li>
+    <li><a href="#roadmap">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+
+## About The Project
+
+Algorithm 8.0 is an unique and innovative event that encourages 
+innovation and collaboration in the tech community. It provides a 
+platform for our participants to challenge themselves, expand their knowledge,
+and create meaningful solutions to real-world problems related to social 
+awareness. Whether you are a seasoned developer or a newcomer to the field, 
+Algorithm 8.0 offers a unique opportunity to be a part of something truly impactful 
+and make a difference in the world.
+
+
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
