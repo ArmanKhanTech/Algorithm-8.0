@@ -11,6 +11,8 @@
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/tree/master/Web-Frontend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <a href="https://algorithm8.aiktc.ac.in/">Visit</a>
+    ·
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Report a Bug</a>
     ·
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Request new Feature</a>
