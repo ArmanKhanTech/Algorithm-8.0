@@ -6,7 +6,7 @@
   <h3 align="center">Algorithm 8.0 Web</h3>
 
   <p align="center">
-    This is mobile client for upcoming Algorithm 8.0.
+    This is the web client for Algorithm 8.0.
     <br />
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/tree/master/Web-Frontend"><strong>Explore the docs »</strong></a>
     <br />
