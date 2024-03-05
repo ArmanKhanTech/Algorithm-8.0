@@ -95,7 +95,9 @@ Follow the below instructions to get started.
     npm install
     ```
 
-4. Run the server
+4. Place the `.env` containing the Firebase credentials in the root dir.
+   
+5. Run the server
 
     ```js
     npm run dev
