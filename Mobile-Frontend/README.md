@@ -109,15 +109,18 @@ Follow the below instructions to get started.
 ## Usage
 
 1. View the list of registered teams for the hackathon.
-2. View the Team's and individual Member's Details.
+2. View the team's and individual member's details.
 3. Log the activities of each teams.
 4. Evaluate the teams.
-5. View the results of the hackathon.
-6. Report the problems.
-7. Manage the reported problems.
-8. Make and View the announcements.
-9. Create and Manage the users.
+5. Realtime results of the hackathon based on the evaluation.
+6. Report the in-app problems & manage them.
+7. Make and view announcements.
+8. Create and Manage the users.
 
+The app features three types of users each having their own priviledges:
+1. Admin - Create & manage accounts, make annoucements, view reported in-app problems, access to the results.
+2. Judge - Evaluation of the teams.
+3. Hospitality - View details of the teams & its members, log the team activities.
 
 
 ### Compatible with 
@@ -127,20 +130,18 @@ Follow the below instructions to get started.
 
 ## Roadmap
 
-- [x] Create Users Account for Specific Roles
+- [x] Create & Manage Users Account for Specific Roles
 - [x] User Login
 - [x] Animated Splash Screen
 - [x] Home Screen
-- [x] Team Details
-- [x] Manage Users
-- [x] Report Problems
-- [x] Manage Reported Problems
-- [x] In-App WebView
+- [x] Team & Member Details
+- [x] In-app Problems Reporting & Management
+- [x] In-app WebView
 - [x] User Profile
 - [x] Annoucements
-- [x] Log Activity
+- [x] Log Activities
 - [x] Judge Evaluation
-- [x] View Results
+- [x] Realtime Results
 
 
 
