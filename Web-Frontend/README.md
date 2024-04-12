@@ -70,7 +70,7 @@ Follow the below instructions to get started.
     <p>NPM v10.2.0+</a>
   </li>
   <li>
-    <p>Node v21.1.0+</a>
+    <p>Nodejs v21.1.0+</a>
   </li>
 </ol>
 
@@ -106,11 +106,10 @@ Follow the below instructions to get started.
 
 ## Usage
 
-1. Team Registration
-2. Edit Registration
-3. Announcements
-4. Member's Dashboard
-5. Marketing
+1. Marketing Campaign
+2. Team Registration
+3. Edit Registration
+5. Member's Dashboard
 
 
 [React]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white
