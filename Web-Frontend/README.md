@@ -43,12 +43,12 @@
 
 
 
-## About The Project
+## About the Project
 
 <p>This is Web Client for national level hackathon <b>Algorithm 8.0</b> conducted in our college.</p>
 
 
-### Built With
+### Built with
 
 * [![React][React]][React-url]
 * [![Firebase][Firebase]][Firebase-url]
@@ -109,7 +109,7 @@ Follow the below instructions to get started.
 1. Marketing Campaign
 2. Team Registration
 3. Edit Registration
-5. Member's Dashboard
+4. Member's Dashboard
 
 
 [React]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white
