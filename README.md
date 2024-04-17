@@ -42,7 +42,7 @@
 
 
 
-## About The Event
+## About the Event
 
 Algorithm 8.0 is an unique and innovative event that encourages 
 innovation and collaboration in the tech community. It provides a 
