@@ -42,12 +42,14 @@
 
 
 
-## About The Project
+## About the Project
 
-<p>This is Mobile Client for national level hackathon <b>Algorithm 8.0</b> conducted in our college.</p>
+<p>This is Mobile Client for<b>Algorithm 8.0</b>.</p>
+
+**Supports Android 10 & above only.**
 
 
-### Built With
+### Built with
 
 * [![Flutter][Flutter]][Flutter-url]
 * [![Dart][Dart]][Dart-url]
@@ -135,8 +137,8 @@ The app features three types of users each having their own priviledges:
 - [x] Animated Splash Screen
 - [x] Home Screen
 - [x] Team & Member Details
-- [x] In-app Problems Reporting & Management
-- [x] In-app WebView
+- [x] In-App Problems Reporting & Management
+- [x] In-App WebView
 - [x] User Profile
 - [x] Annoucements
 - [x] Log Activities
