@@ -110,6 +110,8 @@ Follow the below instructions to get started.
 2. Team Registration
 3. Edit Registration
 4. Member's Dashboard
+5. Announcements
+
 
 
 [React]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white
