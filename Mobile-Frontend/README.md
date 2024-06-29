@@ -69,10 +69,10 @@ Follow the below instructions to get started.
     <p>Android Studio IDE or VS Code</a>
   </li>
   <li>
-    <p>Flutter v3.16.2</a>
+    <p>Flutter v3.22</a>
   </li>
   <li>
-    <p>Dart v3.2.2</a>
+    <p>Dart v3.4</a>
   </li>
 </ol>
 
@@ -119,31 +119,10 @@ Follow the below instructions to get started.
 7. Make and view announcements.
 8. Create and Manage the users.
 
-The app features three types of users each having their own priviledges:
+The app features three types of users each having their own privileges:
 1. Admin - Create & manage accounts, make annoucements, view reported in-app problems, access to the results.
 2. Judge - Evaluation of the teams.
 3. Hospitality - View details of the teams & its members, log the team activities.
-
-
-### Compatible with 
-* [![Android][Android]][Android-url]
-
-
-
-## Roadmap
-
-- [x] Create & Manage Users Account for Specific Roles
-- [x] User Login
-- [x] Animated Splash Screen
-- [x] Home Screen
-- [x] Team & Member Details
-- [x] In-App Problems Reporting & Management
-- [x] In-App WebView
-- [x] User Profile
-- [x] Annoucements
-- [x] Log Activities
-- [x] Judge Evaluation
-- [x] Realtime Results
 
 
 
