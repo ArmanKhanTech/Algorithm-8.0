@@ -6,7 +6,7 @@
   <h3 align="center">Algorithm 8.0 Web</h3>
 
   <p align="center">
-    This is the web client for Algorithm 8.0.
+    Web client for Algorithm 8.0.
     <br />
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/tree/master/Web-Frontend"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,6 +52,7 @@
 
 * [![React][React]][React-url]
 * [![Firebase][Firebase]][Firebase-url]
+* [![Tailwind][Tailwind]][Tailwind-url]
 
 
 
@@ -110,9 +111,13 @@ Follow the below instructions to get started.
 2. Team Registration
 3. Edit Registration
 4. Member's Dashboard
+5. Announcements
+
 
 
 [React]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white
 [React-url]: https://reactjs.org/
 [Firebase]: https://img.shields.io/badge/Firebase-6495ED?style=for-the-badge&logo=Firebase&logoColor=white
 [Firebase-url]: https://firebase.google.com/
+[Tailwind]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
