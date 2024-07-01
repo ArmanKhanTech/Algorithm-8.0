@@ -7,19 +7,17 @@
 
 
 
-
 <div align="center">
   <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/">
-    <img src="https://github.com/ArmanKhanTech/Algorithm-8.0/assets/92728787/73a7798c-6df0-475d-8384-a1486dfbcb25" alt="Logo" width="100" height="120">
+    <img src="https://github.com/ArmanKhanTech/Algorithm-8.0/assets/92728787/500afd38-0b9f-4e8e-9c54-6efa82e31209" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Algorithm 8.0</h3>
+  <p align="center">Status: Completed</p>
+  <p align="center">This is the complete system developed for Algorithm 8.0.</p>
 
   <p align="center">
-    This is the complete system developed for Algorithm 8.0.
-    <br />
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/tree/master/Mobile-Frontend"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Report a Bug</a>
     ·
@@ -35,7 +33,7 @@
     <li>
       <a href="#about-the-event">About the Event</a>
     </li>
-    <li><a href="#roadmap">License</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
