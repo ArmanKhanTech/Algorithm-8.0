@@ -7,6 +7,7 @@
 
 
 
+<br />
 <div align="center">
   <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/">
     <img src="https://github.com/ArmanKhanTech/Algorithm-8.0/assets/92728787/500afd38-0b9f-4e8e-9c54-6efa82e31209" alt="Logo" width="100" height="100">
@@ -24,6 +25,7 @@
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Request new Feature</a>
   </p>
 </div>
+<br />
 
 
 
