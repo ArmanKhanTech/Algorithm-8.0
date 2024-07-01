@@ -3,12 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:algorithm/utilities/constants.dart';
+import 'package:algorithm/utility/constants.dart';
 import 'package:algorithm/firebase_options.dart';
-import 'package:algorithm/screens/splash.dart';
-import 'package:algorithm/utilities/no_thumb_scrollbar.dart';
+import 'package:algorithm/screen/splash.dart';
+import 'package:algorithm/utility/no_thumb_scrollbar.dart';
 import 'package:provider/provider.dart';
-import 'package:algorithm/utilities/providers.dart';
+import 'package:algorithm/utility/providers.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
