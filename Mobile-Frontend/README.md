@@ -1,6 +1,7 @@
+<br />
 <div align="center">
   <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/">
-    <img src="https://github.com/ArmanKhanTech/Algorithm-8.0/assets/92728787/feceb927-a4cf-4774-a457-c73a4d3c78eb" alt="Logo" width="80" height="80">
+    <img src="https://github.com/ArmanKhanTech/Algorithm-8.0/assets/92728787/feceb927-a4cf-4774-a457-c73a4d3c78eb" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Algorithm 8.0 Mobile</h3>
