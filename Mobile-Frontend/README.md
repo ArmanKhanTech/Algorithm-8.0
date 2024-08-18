@@ -12,8 +12,6 @@
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/tree/master/Mobile-Frontend"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Report a Bug</a>
-    ·
-    <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Request new Feature</a>
   </p>
 </div>
 <br />
