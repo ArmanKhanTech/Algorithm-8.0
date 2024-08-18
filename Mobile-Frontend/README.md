@@ -11,6 +11,8 @@
   <p align="center">
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/tree/master/Mobile-Frontend"><strong>Explore the docs »</strong></a>
     <br />
+    <a href="https://algorithm8.aiktc.ac.in/">Visit</a>
+    ·
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Report a Bug</a>
   </p>
 </div>
