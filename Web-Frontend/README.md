@@ -110,6 +110,8 @@ Follow the below instructions to get started.
 4. Member's Dashboard
 5. Announcements
 
+Also, features a serverless function to backup data every three hours. Can be found in `src/functions/functions`.
+
 
 
 [React]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white
