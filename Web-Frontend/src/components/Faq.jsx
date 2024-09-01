@@ -6,8 +6,6 @@ import { fadeIn } from "../utils/motion";
 import { SectionWrapper } from "../hoc";
 
 const Faq = () => {
-  const isMobile = window.innerWidth < 768; 
-
   return (
     <section className="text-gray-600 sm:py-15 py-2 relative z-0">
       <div className="container text-center">
@@ -16,22 +14,40 @@ const Faq = () => {
         </motion.div>
         <motion.div variants={fadeIn("up", "spring", 0.5, 0.75)}>
           <div class="flex flex-wrap md:w-screen lg:w-4/5 sm:mx-auto sm:mb-2 mt-10">
-            <div class={`w-full lg:w-1/2 ${isMobile ? 'px-0' : 'px-2'} py-2`}>  
+            <div class={`w-full lg:w-1/2 px-0 lg:px-2 py-2`}>
               <details class="mb-4">
                 <summary className="rounded-xl bg-blur text-white border-2 border-orange-600 py-5 px-5 font-semibold">
-                  <span>
-                    Explain the registration process?
-                  </span>
+                  <span>Explain the registration process?</span>
                   <span className="transition group-open:rotate-180" />
                 </summary>
                 <p className="pl-4 pt-4 text-left antialiased bg-tertiary text-white p-4 mt-2 rounded-xl">
                   <ul className="list-disc list-inside">
-                    <li className='font-bold'>Each member has to register individually.</li>
-                    <li>Use existing team name to register yourself as a part of existing team (team name is case & space sensitive).</li>
-                    <li>Choose a new team name to create a new team and share that team name with your team mates so that they can become part of your team.</li>
-                    <li>Member to register first is automatically the lead of the team.</li>
+                    <li className="font-bold">
+                      Each member has to register individually.
+                    </li>
+                    <li>
+                      Use existing team name to register yourself as a part of
+                      existing team (team name is case & space sensitive).
+                    </li>
+                    <li>
+                      Choose a new team name to create a new team and share that
+                      team name with your team mates so that they can become
+                      part of your team.
+                    </li>
+                    <li>
+                      Member to register first is automatically the lead of the
+                      team.
+                    </li>
                     <li>Each team can only have three members.</li>
-                    <li>Join this Whatsapp Group to solve your doubts : <a href='https://chat.whatsapp.com/KEK3nEVvZzu1yXXvTO5ySS' className='text-blue-600'>Click to Join</a></li>
+                    <li>
+                      Join this Whatsapp Group to solve your doubts :{" "}
+                      <a
+                        href="https://chat.whatsapp.com/KEK3nEVvZzu1yXXvTO5ySS"
+                        className="text-blue-600"
+                      >
+                        Click to Join
+                      </a>
+                    </li>
                   </ul>
                 </p>
               </details>
@@ -59,19 +75,19 @@ const Faq = () => {
               </details>
               <details class="mb-0">
                 <summary className="rounded-xl bg-blur text-white border-2 border-orange-600 py-5 px-5 font-semibold">
-                  <span>
-                    Can I work on my solution before the hackathon?
-                  </span>
+                  <span>Can I work on my solution before the hackathon?</span>
                   <span className="transition group-open:rotate-180" />
                 </summary>
                 <p className="pl-4 pt-4 text-left antialiased bg-tertiary text-white p-4 mt-2 rounded-xl">
-                The problem statement will be provided 3 days before the conduction of the hackathon and the teams can start working on the hackathon once the problem statements are displayed.
+                  The problem statement will be provided 3 days before the
+                  conduction of the hackathon and the teams can start working on
+                  the hackathon once the problem statements are displayed.
                 </p>
               </details>
             </div>
-            <div class={`w-full lg:w-1/2 ${isMobile ? 'px-0' : 'px-2'} py-2`}>
+            <div class={`w-full lg:w-1/2 px-0 lg:px-2 py-2`}>
               <details class="mb-4">
-                 <summary className="rounded-xl bg-blur text-white border-2 border-orange-600 py-5 px-5 font-semibold">
+                <summary className="rounded-xl bg-blur text-white border-2 border-orange-600 py-5 px-5 font-semibold">
                   <span>Who all can participate in Algorithm 8.0?</span>
                   <span className="transition group-open:rotate-180" />
                 </summary>
@@ -120,7 +136,6 @@ const Faq = () => {
       </div>
     </section>
   );
-}
+};
 
 export default SectionWrapper(Faq, "faq");
-

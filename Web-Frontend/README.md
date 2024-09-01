@@ -19,8 +19,6 @@
   </p>
 </div>
 
-
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -41,25 +39,19 @@
   </ol>
 </details>
 
-
-
 ## About the Project
 
 <p>This is Web Client for national level hackathon <b>Algorithm 8.0</b> conducted in our college.</p>
 
-
 ### Built with
 
-* [![React][React]][React-url]
-* [![Firebase][Firebase]][Firebase-url]
-* [![Tailwind][Tailwind]][Tailwind-url]
-
-
+- [![React][React]][React-url]
+- [![Firebase][Firebase]][Firebase-url]
+- [![Tailwind][Tailwind]][Tailwind-url]
 
 ## Getting Started
 
 Follow the below instructions to get started.
-
 
 ### Prerequisites
 
@@ -75,35 +67,32 @@ Follow the below instructions to get started.
   </li>
 </ol>
 
-
 ### Setup
 
 1. Clone the repository
 
-    ```js
-    git clone https://github.com/ArmanKhanTech/Algorithm-8.0.git
-    ```
+   ```js
+   git clone https://github.com/ArmanKhanTech/Algorithm-8.0.git
+   ```
 
 2. Change the directory
 
-    ```js
-    cd Web-Frontend
-    ```
+   ```js
+   cd Web-Frontend
+   ```
 
 3. Install the dependencies
 
-    ```js
-    npm install
-    ```
+   ```js
+   npm install
+   ```
 
 4. Place the `.env` containing the Firebase credentials in the root directory
-   
 5. Run the server
 
-    ```js
-    npm run dev
-    ```
-
+   ```js
+   npm run dev
+   ```
 
 ## Usage
 
@@ -112,8 +101,6 @@ Follow the below instructions to get started.
 3. Edit Registration
 4. Member's Dashboard
 5. Announcements
-
-
 
 [React]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white
 [React-url]: https://reactjs.org/

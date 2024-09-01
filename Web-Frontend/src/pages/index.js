@@ -4,10 +4,4 @@ import Dashboard from "./Dashboard";
 import Register from "./Register";
 import Rejected from "./Rejected";
 
-export {
-  Register,
-  SignIn,
-  Edit,
-  Dashboard,
-  Rejected
-};
+export { Register, SignIn, Edit, Dashboard, Rejected };

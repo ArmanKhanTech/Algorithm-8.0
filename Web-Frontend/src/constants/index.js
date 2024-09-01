@@ -10,7 +10,7 @@ import {
   machine_learning,
   development,
   open_source,
-  vr
+  vr,
 } from "../assets/images";
 
 export const navLinks = [
@@ -84,9 +84,7 @@ const experiences = [
     icon: four,
     iconBg: "#E6DEDD",
     date: "2nd March 2024",
-    points: [
-      "Winners will be announced.",
-    ],
+    points: ["Winners will be announced."],
   },
 ];
 
@@ -118,7 +116,8 @@ const notice = [
   {
     date: "23 Feb 2024",
     id: "Notice 2",
-    notice: "Join the Whatsapp Group if you haven't already : https://chat.whatsapp.com/C47SLZvd6x8HBcw6suTdXp.",
+    notice:
+      "Join the Whatsapp Group if you haven't already : https://chat.whatsapp.com/C47SLZvd6x8HBcw6suTdXp.",
   },
   {
     date: "25 Feb 2024",
@@ -129,22 +128,22 @@ const notice = [
     date: "27 Feb 2024",
     id: "Notice 4",
     notice: "Quiz to be conducted on 28th Feb 2024 7PM onwards.",
-  }
+  },
 ];
 
 const timeline = [
   {
-    event: 'Registration',
+    event: "Registration",
   },
   {
-    event: 'Quiz',
+    event: "Quiz",
   },
   {
-    event: 'Selection',
+    event: "Selection",
   },
   {
-    event: 'Selected',
-  }
+    event: "Selected",
+  },
 ];
 
 export { services, experiences, notice, timeline };

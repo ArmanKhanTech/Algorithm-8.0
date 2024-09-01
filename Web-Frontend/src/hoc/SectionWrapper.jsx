@@ -5,14 +5,15 @@ import { staggerContainer } from "../utils/motion";
 
 const StarWrapper = (Component, idName) =>
   function HOC() {
-    if(idName === "hero") {
+    if (idName === "hero") {
       return (
         <motion.section
           variants={staggerContainer()}
-          initial='hidden'
-          whileInView='show'
+          initial="hidden"
+          whileInView="show"
           viewport={{ once: true, amount: 0.25 }}
-          className='p-0 w-full h-full'>
+          className="p-0 w-full h-full"
+        >
           <Component />
         </motion.section>
       );
@@ -20,11 +21,12 @@ const StarWrapper = (Component, idName) =>
       return (
         <motion.section
           variants={staggerContainer()}
-          initial='hidden'
-          whileInView='show'
+          initial="hidden"
+          whileInView="show"
           viewport={{ once: true, amount: 0.25 }}
-          className={`${styles.padding} max-w-6xl mx-auto`}>
-          <span className='hash-span' id={idName}>
+          className={`${styles.padding} max-w-6xl mx-auto`}
+        >
+          <span className="hash-span" id={idName}>
             &nbsp;
           </span>
           <Component />

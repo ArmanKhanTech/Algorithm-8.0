@@ -8,7 +8,7 @@ module.exports = {
         primary: "#000",
         secondary: "#aaa6c3",
         tertiary: "#E04E17",
-        main:"#151030",
+        main: "#151030",
         "black-100": "#100d25",
         "black-200": "#090325",
         "white-100": "#f3f3f3",
@@ -21,15 +21,15 @@ module.exports = {
         xs: "450px",
       },
       animation: {
-        'infinite-scroll': 'infinite-scroll 25s linear infinite',
-    },
-    keyframes: {
-        'infinite-scroll': {
-            from: { transform: 'translateX(0)' },
-            to: { transform: 'translateX(-100%)' },
-        }
-    } 
-    // end caraousel
+        "infinite-scroll": "infinite-scroll 25s linear infinite",
+      },
+      keyframes: {
+        "infinite-scroll": {
+          from: { transform: "translateX(0)" },
+          to: { transform: "translateX(-100%)" },
+        },
+      },
+      // end caraousel
     },
   },
   plugins: [],

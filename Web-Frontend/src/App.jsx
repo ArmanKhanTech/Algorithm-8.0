@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from "react";
 
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { onAuthStateChanged, getAuth } from "firebase/auth";
@@ -11,12 +11,10 @@ import {
   Clients,
   StarsCanvas,
   Faq,
-  Foot
+  Foot,
 } from "./components";
-
-import { Register, SignIn, Edit, Dashboard, Rejected } from "./pages"
-
-import { UserContext } from './context/UserContext';
+import { Register, SignIn, Edit, Dashboard, Rejected } from "./pages";
+import { UserContext } from "./context/UserContext";
 
 const App = () => {
   const [user, setUser] = useState(null);
@@ -44,15 +42,15 @@ const App = () => {
       </BrowserRouter>
     </UserContext.Provider>
   );
-}
+};
 
 const Landing = () => {
   return (
-    <div className='relative z-0 bg-black overflow-x-hidden'>
+    <div className="relative z-0 bg-black overflow-x-hidden">
       <div className="relative">
         <Hero />
       </div>
-      <div className='relative z-0 bg-black'>
+      <div className="relative z-0 bg-black">
         <About />
         <Experience />
         <Clients />
@@ -63,6 +61,6 @@ const Landing = () => {
       </div>
     </div>
   );
-}
+};
 
 export default App;
