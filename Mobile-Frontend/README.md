@@ -1,21 +1,22 @@
+<br />
 <div align="center">
   <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/">
-    <img src="https://github.com/ArmanKhanTech/Algorithm-8.0/assets/92728787/73a7798c-6df0-475d-8384-a1486dfbcb25" alt="Logo" width="100" height="120">
+    <img src="https://github.com/ArmanKhanTech/Algorithm-8.0/assets/92728787/feceb927-a4cf-4774-a457-c73a4d3c78eb" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Algorithm 8.0 Mobile</h3>
-
+  <p align="center">Status: Completed</p>
+  <p align="center">Mobile client for Algorithm 8.0.</p>
+  
   <p align="center">
-    Mobile client for Algorithm 8.0.
-    <br />
     <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/tree/master/Mobile-Frontend"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Report a Bug</a>
+    <a href="https://algorithm8.aiktc.ac.in/">Visit</a>
     ·
-    <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Request new Feature</a>
+    <a href="https://github.com/ArmanKhanTech/Algorithm-8.0/issues">Report a Bug</a>
   </p>
 </div>
+<br />
 
 
 
